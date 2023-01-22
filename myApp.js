@@ -1,7 +1,7 @@
 let express = require('express');
 let app = express();
 
-print("hello world")
+console.log "Hello World"
 
 
 
